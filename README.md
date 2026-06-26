@@ -21,7 +21,6 @@ A lightweight web app for sending emails straight from a browser — no email cl
 |---|---|
 | **`app.py`** | Streamlit front-end — renders the input form and triggers the send action |
 | **`mailsend.py`** | Core mail logic — builds the MIME message and handles the SMTP handshake |
-| **`__pycache__/`** | Auto-generated Python bytecode cache (safe to add to `.gitignore`) |
 
 ---
 
